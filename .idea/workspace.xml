@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ddc3c1a-26b9-4f62-a07b-9dbfaac62bcc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQtjNOVQEbKzXp9c2Agu7FMqXt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BatmobileTest.canGetWeapons">
+    <configuration name="BatmobileTest.canGetColour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
+      <option name="METHOD_NAME" value="canGetColour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatmobileTest.canGetEngineType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
+      <option name="METHOD_NAME" value="canGetEngineType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatmobileTest.canGetPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
+      <option name="METHOD_NAME" value="canGetPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatmobileTest.canGetTyreType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
+      <option name="METHOD_NAME" value="canGetTyreType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatmobileTest.canGetWeapons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
+      <option name="METHOD_NAME" value="canGetWeapons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BatmobileTest.canGetWeapons" />
+        <item itemvalue="JUnit.BatmobileTest.canGetPrice" />
+        <item itemvalue="JUnit.BatmobileTest.canGetTyreType" />
+        <item itemvalue="JUnit.BatmobileTest.canGetEngineType" />
+        <item itemvalue="JUnit.BatmobileTest.canGetColour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ddc3c1a-26b9-4f62-a07b-9dbfaac62bcc" name="Default Changelist" comment="" />
+      <created>1579093780839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579093780839</updated>
+    </task>
+    <servers />
+  </component>
+</project>
