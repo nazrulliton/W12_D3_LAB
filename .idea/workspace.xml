@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ddc3c1a-26b9-4f62-a07b-9dbfaac62bcc" name="Default Changelist" comment="" />
+    <list default="true" id="0ddc3c1a-26b9-4f62-a07b-9dbfaac62bcc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vehicles/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vehicles/HybridCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ElectricCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HybridCarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +34,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1WQtjNOVQEbKzXp9c2Agu7FMqXt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -41,27 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BatmobileTest.canGetWeapons">
-    <configuration name="BatmobileTest.canGetColour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Arnold_CC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
-      <option name="METHOD_NAME" value="canGetColour" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BatmobileTest.canGetEngineType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Arnold_CC" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BatmobileTest" />
-      <option name="METHOD_NAME" value="canGetEngineType" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ElectricCarTest">
     <configuration name="BatmobileTest.canGetPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Arnold_CC" />
       <option name="PACKAGE_NAME" value="" />
@@ -92,13 +86,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ElectricCarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElectricCarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HybridCarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Arnold_CC" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HybridCarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ElectricCarTest" />
+        <item itemvalue="JUnit.HybridCarTest" />
         <item itemvalue="JUnit.BatmobileTest.canGetWeapons" />
         <item itemvalue="JUnit.BatmobileTest.canGetPrice" />
         <item itemvalue="JUnit.BatmobileTest.canGetTyreType" />
-        <item itemvalue="JUnit.BatmobileTest.canGetEngineType" />
-        <item itemvalue="JUnit.BatmobileTest.canGetColour" />
       </list>
     </recent_temporary>
   </component>
@@ -114,5 +126,16 @@
       <updated>1579093780839</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
